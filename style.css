@@ -160,3 +160,166 @@ nav {
 }
 
 .projects-item__description {}
+
+.skills-section {
+  padding: 100px 0;
+  text-align: center;
+}
+.skills-item {}
+
+.skills-item__image {
+  width: 555px;
+  height: 450px;
+  float: right;
+  margin-right: 300px;
+}
+.skills-item__title {
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 37px;
+  padding-top: 100px;
+  padding-left: 50px;
+  color: #000000;
+}
+.skills-item__info {
+  margin-top: 50px;
+  background-image: url();
+}
+
+.skills-item__description {
+  font-size: 16px;
+  line-height: 26px;
+  color: #727272;
+}
+#progress-container{
+  background:#C4C4C4;;
+  width: 445px;
+  height: 4px;
+  overflow: hidden;
+  margin-left: 400px;
+}
+#progress-container span {
+  display: block;
+  background:  #34547A;;
+  height: 4px;
+  width: 78%;
+}
+.work-section {
+  margin-top: 100px;
+  padding: 100px 0;
+  background: #EEEFF1;
+  text-align: center;
+}
+.work-title {
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 37px;
+  margin-bottom: 50px;
+}
+.work-description {
+  line-height: 26px;
+  color: #727272;
+  width: 540px;
+  margin: 0 auto;
+}
+.work-image {
+  width: 1110px;
+  height: 600px;
+  margin-top: 60px;
+}
+.gallery {
+  margin-top: 28px;
+}
+
+.gallery-wrapper {}
+
+.gallery-item {
+  width: 25%;
+  display: inline-block;
+}
+.gallery-item__notes {
+  max-width: 100%;
+  
+}
+.gallery-microsoft {
+  margin-top: 72 px;
+  margin-bottom: 100px;
+  text-align: center;
+}
+.gallery-microsoft__m:not(:last-child) {
+  margin-right: 30px;
+}
+.web-section {
+  text-align: center;
+  background: #EEEFF1;
+  padding: 35px 0 100px 0;
+}
+.web-section__title {
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 37px;
+  margin-bottom: 50px;
+}
+.web-section__description {
+  line-height: 26px;
+  margin: 0 auto;
+  max-width: 25%;
+  color: #727272;
+}
+.web-section__form {
+  margin-top: 65px;
+}
+.web-section__data {
+  margin-bottom: 20px;
+  display: inline-block;
+}
+#fname {
+  width: 255px;
+  height: 50px;
+  margin-right: 30px;
+  padding: 0px;
+} 
+#email {
+  width: 255px;
+  height: 50px;
+}
+.web-section__message {}
+#message {
+  width: 540px;
+  height: 175px;
+}
+.btn2 {
+  width: 190px;
+  height: 55px;
+  background: #34547A;
+  margin-top: 50px;
+  font-size: 14px;
+  line-height: 23px;
+  color: #FFFFFF;
+}
+footer {
+  background: #34547A;
+  padding: 50px 0;
+}
+.footer__title {
+  font-weight: 500;
+  font-size: 21px;
+  line-height: 25px;
+  color: #FFFFFF;
+  margin-left: 406px;
+  margin-bottom: 20px;
+}
+.footer__description {
+  font-size: 13px;
+  line-height: 21px;
+  color: #FFFFFF;
+  margin-left: 406px;
+
+}
+.footer__image {
+  float: right;
+  margin-right: 389px;
+}
+.footer__vk:not(:last-child) {
+  margin-right: 22px;
+}
